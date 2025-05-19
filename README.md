@@ -11,7 +11,7 @@ Time values** in both:
 Hashtags** (e.g., `#Example`, `#CodeLife`)
 
 # Setup Instructions 
-# Clone the repo
+Clone the repo
 git clone https://github.com/NkubaJr/alu_regex-data-extraction-NkubaJr.git
 cd alu_regex-data-extraction-NkubaJr
 
