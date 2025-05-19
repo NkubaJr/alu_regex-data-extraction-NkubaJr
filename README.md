@@ -16,12 +16,15 @@ Hashtags** (e.g., `#Example`, `#CodeLife`)
 	cd alu_regex-data-extraction-NkubaJr
 
 Run the script
+	
 	python3 regex_extractor.py
 
 Sample that should test our script
+	
 	The sample.txt file contains data formats such as emails, time, currency as well as hashtags
 
-#Project the output
+Project the output
+	
 	Emails found: [...]
 	Currency amounts found: [...]
 	Time values found: [...]
