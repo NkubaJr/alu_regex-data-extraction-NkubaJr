@@ -11,19 +11,19 @@ Time values** in both:
 Hashtags** (e.g., `#Example`, `#CodeLife`)
 
 # Setup Instructions 
-Clone the repo
-git clone https://github.com/NkubaJr/alu_regex-data-extraction-NkubaJr.git
-cd alu_regex-data-extraction-NkubaJr
+	Clone the repo
+	git clone https://github.com/NkubaJr/alu_regex-data-extraction-NkubaJr.git
+	cd alu_regex-data-extraction-NkubaJr
 
-#Run the script
-python3 regex_extractor.py
+Run the script
+	python3 regex_extractor.py
 
-#Sample that should test our script
-The sample.txt file contains data formats such as emails, time, currency as well as hashtags
+Sample that should test our script
+	The sample.txt file contains data formats such as emails, time, currency as well as hashtags
 
 #Project the output
-Emails found: [...]
-Currency amounts found: [...]
-Time values found: [...]
-Hashtags found: [...]
+	Emails found: [...]
+	Currency amounts found: [...]
+	Time values found: [...]
+	Hashtags found: [...]
 
