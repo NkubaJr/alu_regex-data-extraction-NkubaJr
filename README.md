@@ -3,12 +3,13 @@
 The project can extract data from text using regular expressions (Regex) in Python
 
 Extracted data types include:
-Email addresses** (e.g., `user@example.com`)
-Currency amounts in Rwandan Francs** (e.g., `75,000 Rwf`, `1,200,000 Rwf`)
-Time values** in both:
-   *12-hour format (e.g., `2:30 PM`)
-  *24-hour format (e.g., `14:00`)
-Hashtags** (e.g., `#Example`, `#CodeLife`)
+
+	Email addresses** (e.g., `user@example.com`)
+	Currency amounts in Rwandan Francs** (e.g., `75,000 Rwf`, `1,200,000 Rwf`)
+	Time values** in both:
+   	*12-hour format (e.g., `2:30 PM`)
+  	*24-hour format (e.g., `14:00`)
+	Hashtags** (e.g., `#Example`, `#CodeLife`)
 
 # Setup Instructions 
 	Clone the repo
